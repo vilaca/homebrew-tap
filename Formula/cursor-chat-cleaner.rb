@@ -3,8 +3,8 @@ class CursorChatCleaner < Formula
 
   desc "Find, back up, and delete Cursor chats on macOS"
   homepage "https://github.com/vilaca/cursor-chat-cleaner"
-  url "https://files.pythonhosted.org/packages/30/1d/b38b385ef1982d00072bdc75a2f03bd1fcd41c515b96392daa092228082e/cursor_chat_cleaner-0.1.0.tar.gz"
-  sha256 "1ce89ab0bbb462449d20d74327c6e39e6963cb3370a0d00b53152ad161c0305f"
+  url "https://files.pythonhosted.org/packages/b4/e3/cd9a367852068db4c838c3be3c53d7c9c7d00dd8b9352557f0f1a59948ae/cursor_chat_cleaner-0.1.2.tar.gz"
+  sha256 "c5f98a98b5a4ed3cd33e7061abc10b472e6e308c8029105b7d9b0ffd7a28b59c"
   license "MIT"
 
   depends_on :macos
